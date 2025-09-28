@@ -1,5 +1,4 @@
 ## Hi there im Adam kasbaoui👋
-# Hi, I'm [Your Name] 👋
 - 🎓 2nd-semester student of IT & Communication Engineering at HTW Berlin
 - 💻 Interested in IT Support, QA, and automation
 - 🌍 Languages: German C1 (telc), English C1 (IELTS), Arabic & French native
